@@ -145,8 +145,3 @@ if __name__ == "__main__":
 
     # normData,ranges,minVals = autoNorm(matrix)
 
-    # fig = plt.figure()
-    # ax = fig.add_subplot(111)
-    # ax.scatter(matrix[:,1],matrix[:,2],15.0 * array(classLabel),15.0 * array(classLabel))
-    #
-    # plt.show()
